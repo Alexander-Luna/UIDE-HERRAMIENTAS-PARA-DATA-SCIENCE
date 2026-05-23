@@ -1,0 +1,997 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "MinMaxScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "MinMaxScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "load_breast_cancer",
+        "importPath": "sklearn.datasets",
+        "description": "sklearn.datasets",
+        "isExtraImport": true,
+        "detail": "sklearn.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_breast_cancer",
+        "importPath": "sklearn.datasets",
+        "description": "sklearn.datasets",
+        "isExtraImport": true,
+        "detail": "sklearn.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_breast_cancer",
+        "importPath": "sklearn.datasets",
+        "description": "sklearn.datasets",
+        "isExtraImport": true,
+        "detail": "sklearn.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsClassifier",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsClassifier",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_auc_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_curve",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_auc_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_curve",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "titanic_df",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "titanic_df = pd.read_csv('titanic.csv')\n# titanic_df = sns.load_dataset(\"titanic\")\n# Ver las primeras filas del conjunto de datos\nprint(titanic_df.head(10))\n# Estadísticas descriptivas\nprint(titanic_df.describe())\n# Estadísticas de variables categóricas\nprint(titanic_df.describe(include=['object']))\n# Histogramas de Edades (frecuencias):\nplt.figure(figsize=(8, 6)) # Crear una nueva figura con tamaño 8x6 pulgadas",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "variables_numericas",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "variables_numericas = ['Age', 'SibSp', 'Parch', 'Fare', 'Survived']\n# Crear una submatriz de correlación\ncorrelation_matrix = titanic_df[variables_numericas].corr()\n# crea una máscara para ocultar la parte superior de la matriz de correlación\n# con k=0 no incluye la diagonal principal y con k=1 si\nmask = np.triu(np.ones_like(correlation_matrix, dtype=bool), k=1)\n# Crear un mapa de calor de correlación\nplt.figure(figsize=(10, 8))\nsns.heatmap(correlation_matrix, mask=mask, annot=True, fmt='.2f', cmap='coolwarm', linewidths=.5)\nplt.title('Matriz de Correlación entre Variables Numéricas del Titanic')",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "correlation_matrix",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "correlation_matrix = titanic_df[variables_numericas].corr()\n# crea una máscara para ocultar la parte superior de la matriz de correlación\n# con k=0 no incluye la diagonal principal y con k=1 si\nmask = np.triu(np.ones_like(correlation_matrix, dtype=bool), k=1)\n# Crear un mapa de calor de correlación\nplt.figure(figsize=(10, 8))\nsns.heatmap(correlation_matrix, mask=mask, annot=True, fmt='.2f', cmap='coolwarm', linewidths=.5)\nplt.title('Matriz de Correlación entre Variables Numéricas del Titanic')\nplt.show()\n# Aplicar una máscara para mostrar solo correlaciones moderadas/altas mayores a 0.4",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "mask",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "mask = np.triu(np.ones_like(correlation_matrix, dtype=bool), k=1)\n# Crear un mapa de calor de correlación\nplt.figure(figsize=(10, 8))\nsns.heatmap(correlation_matrix, mask=mask, annot=True, fmt='.2f', cmap='coolwarm', linewidths=.5)\nplt.title('Matriz de Correlación entre Variables Numéricas del Titanic')\nplt.show()\n# Aplicar una máscara para mostrar solo correlaciones moderadas/altas mayores a 0.4\nmask = np.abs(correlation_matrix) < 0.4\ncorrelation_matrix[mask] = np.nan\n# Crear un mapa de calor de correlación con valores significativos",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "mask",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "mask = np.abs(correlation_matrix) < 0.4\ncorrelation_matrix[mask] = np.nan\n# Crear un mapa de calor de correlación con valores significativos\nplt.figure(figsize=(10, 8))\nsns.heatmap(correlation_matrix, mask=mask, annot=True, fmt='.2f', cmap='coolwarm', linewidths=.5)\nplt.title('Matriz de Correlación (moderadas / altas)')\nplt.show()\n# Crear el box-plot de la variable \"edad\"\nplt.figure(figsize=(10, 6))\nsns.boxplot(x=titanic_df['Age'])",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "correlation_matrix[mask]",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "correlation_matrix[mask] = np.nan\n# Crear un mapa de calor de correlación con valores significativos\nplt.figure(figsize=(10, 8))\nsns.heatmap(correlation_matrix, mask=mask, annot=True, fmt='.2f', cmap='coolwarm', linewidths=.5)\nplt.title('Matriz de Correlación (moderadas / altas)')\nplt.show()\n# Crear el box-plot de la variable \"edad\"\nplt.figure(figsize=(10, 6))\nsns.boxplot(x=titanic_df['Age'])\nplt.title('Box-Plot de la Edad')",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "Q1",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "Q1 = titanic_df['Age'].quantile(0.25)\nQ3 = titanic_df['Age'].quantile(0.75)\nIQR = Q3 - Q1 # rango intercuartil\nlimite_superior = Q3 + 1.5*IQR\nlimite_inferior = Q1 - 1.5*IQR\nfiltered_titanic_df = titanic_df[(titanic_df['Age'] >= limite_inferior) & (titanic_df['Age'] <= limite_superior)]\n# Crear el box-plot de la variable \"edad\"\nplt.figure(figsize=(10, 6))\nsns.boxplot(x=filtered_titanic_df['Age'])\nplt.title('Box-Plot de la Edad (sin atípicos)')",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "Q3",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "Q3 = titanic_df['Age'].quantile(0.75)\nIQR = Q3 - Q1 # rango intercuartil\nlimite_superior = Q3 + 1.5*IQR\nlimite_inferior = Q1 - 1.5*IQR\nfiltered_titanic_df = titanic_df[(titanic_df['Age'] >= limite_inferior) & (titanic_df['Age'] <= limite_superior)]\n# Crear el box-plot de la variable \"edad\"\nplt.figure(figsize=(10, 6))\nsns.boxplot(x=filtered_titanic_df['Age'])\nplt.title('Box-Plot de la Edad (sin atípicos)')\nplt.xlabel('Edad')",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "IQR",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "IQR = Q3 - Q1 # rango intercuartil\nlimite_superior = Q3 + 1.5*IQR\nlimite_inferior = Q1 - 1.5*IQR\nfiltered_titanic_df = titanic_df[(titanic_df['Age'] >= limite_inferior) & (titanic_df['Age'] <= limite_superior)]\n# Crear el box-plot de la variable \"edad\"\nplt.figure(figsize=(10, 6))\nsns.boxplot(x=filtered_titanic_df['Age'])\nplt.title('Box-Plot de la Edad (sin atípicos)')\nplt.xlabel('Edad')\nplt.show()",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "limite_superior",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "limite_superior = Q3 + 1.5*IQR\nlimite_inferior = Q1 - 1.5*IQR\nfiltered_titanic_df = titanic_df[(titanic_df['Age'] >= limite_inferior) & (titanic_df['Age'] <= limite_superior)]\n# Crear el box-plot de la variable \"edad\"\nplt.figure(figsize=(10, 6))\nsns.boxplot(x=filtered_titanic_df['Age'])\nplt.title('Box-Plot de la Edad (sin atípicos)')\nplt.xlabel('Edad')\nplt.show()",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "limite_inferior",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "limite_inferior = Q1 - 1.5*IQR\nfiltered_titanic_df = titanic_df[(titanic_df['Age'] >= limite_inferior) & (titanic_df['Age'] <= limite_superior)]\n# Crear el box-plot de la variable \"edad\"\nplt.figure(figsize=(10, 6))\nsns.boxplot(x=filtered_titanic_df['Age'])\nplt.title('Box-Plot de la Edad (sin atípicos)')\nplt.xlabel('Edad')\nplt.show()",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "filtered_titanic_df",
+        "kind": 5,
+        "importPath": "Semana1.Analisis_Exploratorio_Datos",
+        "description": "Semana1.Analisis_Exploratorio_Datos",
+        "peekOfCode": "filtered_titanic_df = titanic_df[(titanic_df['Age'] >= limite_inferior) & (titanic_df['Age'] <= limite_superior)]\n# Crear el box-plot de la variable \"edad\"\nplt.figure(figsize=(10, 6))\nsns.boxplot(x=filtered_titanic_df['Age'])\nplt.title('Box-Plot de la Edad (sin atípicos)')\nplt.xlabel('Edad')\nplt.show()",
+        "detail": "Semana1.Analisis_Exploratorio_Datos",
+        "documentation": {}
+    },
+    {
+        "label": "df_test",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_test = pd.read_csv('titanic_test.csv')\ndf_train = pd.read_csv('titanic_train.csv')\nprint(df_test.head())\nprint(df_train.head())\n# la columna parch se refiere al número de padres/niños (Parents/Children) que viajan con el pasajero.\n# la columna sibsp, que indica el número de hermanos/esposos a bordo con el pasajero.\n########## Entendimiento de la data ##########\n#Verifica la cantidad de datos que hay en los dataset\nprint('Cantidad de datos:')\nprint(df_train.shape)",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "df_train",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_train = pd.read_csv('titanic_train.csv')\nprint(df_test.head())\nprint(df_train.head())\n# la columna parch se refiere al número de padres/niños (Parents/Children) que viajan con el pasajero.\n# la columna sibsp, que indica el número de hermanos/esposos a bordo con el pasajero.\n########## Entendimiento de la data ##########\n#Verifica la cantidad de datos que hay en los dataset\nprint('Cantidad de datos:')\nprint(df_train.shape)\nprint(df_test.shape)",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "promedio",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "promedio = 30\ndf_train['Age'] = df_train['Age'].replace(np.nan, promedio)\ndf_test['Age'] = df_test['Age'].replace(np.nan, promedio)\n#Crea varios grupos/rangos de edades\n#Rangos: 0-8, 9-15, 16-18, 19-25, 26-40, 41-60, 61-100\nbins = [0, 8, 15, 18, 25, 40, 60, 100]\nnames = ['1', '2', '3', '4', '5', '6', '7']\ndf_train['Age'] = pd.cut(df_train['Age'], bins, labels = names)\ndf_test['Age'] = pd.cut(df_test['Age'], bins, labels = names)\n#Se elimina la columna de \"Cabin\" ya que tiene muchos datos perdidos",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "df_train['Age']",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_train['Age'] = df_train['Age'].replace(np.nan, promedio)\ndf_test['Age'] = df_test['Age'].replace(np.nan, promedio)\n#Crea varios grupos/rangos de edades\n#Rangos: 0-8, 9-15, 16-18, 19-25, 26-40, 41-60, 61-100\nbins = [0, 8, 15, 18, 25, 40, 60, 100]\nnames = ['1', '2', '3', '4', '5', '6', '7']\ndf_train['Age'] = pd.cut(df_train['Age'], bins, labels = names)\ndf_test['Age'] = pd.cut(df_test['Age'], bins, labels = names)\n#Se elimina la columna de \"Cabin\" ya que tiene muchos datos perdidos\n# El parámetro axis=1 indica que se deben eliminar columnas en lugar de filas (axis=0).",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "df_test['Age']",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_test['Age'] = df_test['Age'].replace(np.nan, promedio)\n#Crea varios grupos/rangos de edades\n#Rangos: 0-8, 9-15, 16-18, 19-25, 26-40, 41-60, 61-100\nbins = [0, 8, 15, 18, 25, 40, 60, 100]\nnames = ['1', '2', '3', '4', '5', '6', '7']\ndf_train['Age'] = pd.cut(df_train['Age'], bins, labels = names)\ndf_test['Age'] = pd.cut(df_test['Age'], bins, labels = names)\n#Se elimina la columna de \"Cabin\" ya que tiene muchos datos perdidos\n# El parámetro axis=1 indica que se deben eliminar columnas en lugar de filas (axis=0).\n# El parámetro inplace indica si la operación se realiza directamente en el ",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "bins",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "bins = [0, 8, 15, 18, 25, 40, 60, 100]\nnames = ['1', '2', '3', '4', '5', '6', '7']\ndf_train['Age'] = pd.cut(df_train['Age'], bins, labels = names)\ndf_test['Age'] = pd.cut(df_test['Age'], bins, labels = names)\n#Se elimina la columna de \"Cabin\" ya que tiene muchos datos perdidos\n# El parámetro axis=1 indica que se deben eliminar columnas en lugar de filas (axis=0).\n# El parámetro inplace indica si la operación se realiza directamente en el \n# DataFrame original o devolvuelve una nueva copia con las filas o columnas eliminadas.\ndf_train.drop(['Cabin'], axis = 1, inplace=True)\ndf_test.drop(['Cabin'], axis = 1, inplace=True)",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "names = ['1', '2', '3', '4', '5', '6', '7']\ndf_train['Age'] = pd.cut(df_train['Age'], bins, labels = names)\ndf_test['Age'] = pd.cut(df_test['Age'], bins, labels = names)\n#Se elimina la columna de \"Cabin\" ya que tiene muchos datos perdidos\n# El parámetro axis=1 indica que se deben eliminar columnas en lugar de filas (axis=0).\n# El parámetro inplace indica si la operación se realiza directamente en el \n# DataFrame original o devolvuelve una nueva copia con las filas o columnas eliminadas.\ndf_train.drop(['Cabin'], axis = 1, inplace=True)\ndf_test.drop(['Cabin'], axis = 1, inplace=True)\n#Elimina las columnas que se considera que no son necesarias para el analisis",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "df_train['Age']",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_train['Age'] = pd.cut(df_train['Age'], bins, labels = names)\ndf_test['Age'] = pd.cut(df_test['Age'], bins, labels = names)\n#Se elimina la columna de \"Cabin\" ya que tiene muchos datos perdidos\n# El parámetro axis=1 indica que se deben eliminar columnas en lugar de filas (axis=0).\n# El parámetro inplace indica si la operación se realiza directamente en el \n# DataFrame original o devolvuelve una nueva copia con las filas o columnas eliminadas.\ndf_train.drop(['Cabin'], axis = 1, inplace=True)\ndf_test.drop(['Cabin'], axis = 1, inplace=True)\n#Elimina las columnas que se considera que no son necesarias para el analisis\ndf_train = df_train.drop(['PassengerId','Name','Ticket'], axis=1)",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "df_test['Age']",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_test['Age'] = pd.cut(df_test['Age'], bins, labels = names)\n#Se elimina la columna de \"Cabin\" ya que tiene muchos datos perdidos\n# El parámetro axis=1 indica que se deben eliminar columnas en lugar de filas (axis=0).\n# El parámetro inplace indica si la operación se realiza directamente en el \n# DataFrame original o devolvuelve una nueva copia con las filas o columnas eliminadas.\ndf_train.drop(['Cabin'], axis = 1, inplace=True)\ndf_test.drop(['Cabin'], axis = 1, inplace=True)\n#Elimina las columnas que se considera que no son necesarias para el analisis\ndf_train = df_train.drop(['PassengerId','Name','Ticket'], axis=1)\ndf_test = df_test.drop(['Name','Ticket'], axis=1)",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "df_train",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_train = df_train.drop(['PassengerId','Name','Ticket'], axis=1)\ndf_test = df_test.drop(['Name','Ticket'], axis=1)\n#Se elimina las filas con datos perdidos\ndf_train.dropna(axis=0, how='any', inplace=True)\ndf_test.dropna(axis=0, how='any', inplace=True)\n#Verifica los datos\nprint(pd.isnull(df_train).sum())\nprint(pd.isnull(df_test).sum())\nprint(df_train.shape)\nprint(df_test.shape)",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "df_test",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_test = df_test.drop(['Name','Ticket'], axis=1)\n#Se elimina las filas con datos perdidos\ndf_train.dropna(axis=0, how='any', inplace=True)\ndf_test.dropna(axis=0, how='any', inplace=True)\n#Verifica los datos\nprint(pd.isnull(df_train).sum())\nprint(pd.isnull(df_test).sum())\nprint(df_train.shape)\nprint(df_test.shape)\nprint(df_test.head())",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "scaler = MinMaxScaler(feature_range=(0,1))\ndf_train['Fare_normalized'] = scaler.fit_transform(df_train[['Fare']])\ndf_test['Fare_normalized'] = scaler.transform(df_test[['Fare']])\n# (Opcional) Si deseas eliminar la columna Fare original:\n# df_train.drop(columns=['Fare'], inplace=True)\n# df_test.drop(columns=['Fare'], inplace=True)\ndf_train.to_csv('train_procesado_2.csv', index=False, sep=',', encoding='utf-8')",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "df_train['Fare_normalized']",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_train['Fare_normalized'] = scaler.fit_transform(df_train[['Fare']])\ndf_test['Fare_normalized'] = scaler.transform(df_test[['Fare']])\n# (Opcional) Si deseas eliminar la columna Fare original:\n# df_train.drop(columns=['Fare'], inplace=True)\n# df_test.drop(columns=['Fare'], inplace=True)\ndf_train.to_csv('train_procesado_2.csv', index=False, sep=',', encoding='utf-8')",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "df_test['Fare_normalized']",
+        "kind": 5,
+        "importPath": "Semana1.preprocesamiento-titanic",
+        "description": "Semana1.preprocesamiento-titanic",
+        "peekOfCode": "df_test['Fare_normalized'] = scaler.transform(df_test[['Fare']])\n# (Opcional) Si deseas eliminar la columna Fare original:\n# df_train.drop(columns=['Fare'], inplace=True)\n# df_test.drop(columns=['Fare'], inplace=True)\ndf_train.to_csv('train_procesado_2.csv', index=False, sep=',', encoding='utf-8')",
+        "detail": "Semana1.preprocesamiento-titanic",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "Semana2.elbow_method_knn",
+        "description": "Semana2.elbow_method_knn",
+        "peekOfCode": "data = load_breast_cancer()\nX = data.data\ny = data.target\n# Las clases en sklearn.datasets viene así: 0=maligno; 1=benigno\n# Intercambiamos las clases para que cáncer maligno=1 y el benigno=0 (estándar mas usado)\n# Las clases dependen de qué fuente provenga (UCI repo, Sklearn, Kaggle, etc.).\ny = 1 - y\n# Dividir los datos en conjuntos de entrenamiento y prueba\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2\n                                                    , random_state=42, stratify=y) # Pass the target variable (y)",
+        "detail": "Semana2.elbow_method_knn",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "Semana2.elbow_method_knn",
+        "description": "Semana2.elbow_method_knn",
+        "peekOfCode": "X = data.data\ny = data.target\n# Las clases en sklearn.datasets viene así: 0=maligno; 1=benigno\n# Intercambiamos las clases para que cáncer maligno=1 y el benigno=0 (estándar mas usado)\n# Las clases dependen de qué fuente provenga (UCI repo, Sklearn, Kaggle, etc.).\ny = 1 - y\n# Dividir los datos en conjuntos de entrenamiento y prueba\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2\n                                                    , random_state=42, stratify=y) # Pass the target variable (y)\n# Definir el rango de valores de k a evaluar",
+        "detail": "Semana2.elbow_method_knn",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "Semana2.elbow_method_knn",
+        "description": "Semana2.elbow_method_knn",
+        "peekOfCode": "y = data.target\n# Las clases en sklearn.datasets viene así: 0=maligno; 1=benigno\n# Intercambiamos las clases para que cáncer maligno=1 y el benigno=0 (estándar mas usado)\n# Las clases dependen de qué fuente provenga (UCI repo, Sklearn, Kaggle, etc.).\ny = 1 - y\n# Dividir los datos en conjuntos de entrenamiento y prueba\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2\n                                                    , random_state=42, stratify=y) # Pass the target variable (y)\n# Definir el rango de valores de k a evaluar\nn = 21",
+        "detail": "Semana2.elbow_method_knn",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "Semana2.elbow_method_knn",
+        "description": "Semana2.elbow_method_knn",
+        "peekOfCode": "y = 1 - y\n# Dividir los datos en conjuntos de entrenamiento y prueba\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2\n                                                    , random_state=42, stratify=y) # Pass the target variable (y)\n# Definir el rango de valores de k a evaluar\nn = 21\nk_range = range(1, n, 2) # en saltos de 2 (solo impares)\nerror_rates = []\n# Evaluar el modelo para cada valor de k\nfor k in k_range:",
+        "detail": "Semana2.elbow_method_knn",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Semana2.elbow_method_knn",
+        "description": "Semana2.elbow_method_knn",
+        "peekOfCode": "n = 21\nk_range = range(1, n, 2) # en saltos de 2 (solo impares)\nerror_rates = []\n# Evaluar el modelo para cada valor de k\nfor k in k_range:\n    knn = KNeighborsClassifier(n_neighbors=k, p=2, weights='distance')\n    knn.fit(X_train, y_train)\n    y_pred = knn.predict(X_test)\n    error = 1 - accuracy_score(y_test, y_pred)\n    error_rates.append(error)",
+        "detail": "Semana2.elbow_method_knn",
+        "documentation": {}
+    },
+    {
+        "label": "k_range",
+        "kind": 5,
+        "importPath": "Semana2.elbow_method_knn",
+        "description": "Semana2.elbow_method_knn",
+        "peekOfCode": "k_range = range(1, n, 2) # en saltos de 2 (solo impares)\nerror_rates = []\n# Evaluar el modelo para cada valor de k\nfor k in k_range:\n    knn = KNeighborsClassifier(n_neighbors=k, p=2, weights='distance')\n    knn.fit(X_train, y_train)\n    y_pred = knn.predict(X_test)\n    error = 1 - accuracy_score(y_test, y_pred)\n    error_rates.append(error)\n# Graficar la tasa de error para cada valor de k",
+        "detail": "Semana2.elbow_method_knn",
+        "documentation": {}
+    },
+    {
+        "label": "error_rates",
+        "kind": 5,
+        "importPath": "Semana2.elbow_method_knn",
+        "description": "Semana2.elbow_method_knn",
+        "peekOfCode": "error_rates = []\n# Evaluar el modelo para cada valor de k\nfor k in k_range:\n    knn = KNeighborsClassifier(n_neighbors=k, p=2, weights='distance')\n    knn.fit(X_train, y_train)\n    y_pred = knn.predict(X_test)\n    error = 1 - accuracy_score(y_test, y_pred)\n    error_rates.append(error)\n# Graficar la tasa de error para cada valor de k\nplt.figure(figsize=(10, 6))",
+        "detail": "Semana2.elbow_method_knn",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "dataset = load_breast_cancer()\nX = dataset.data # 569x30\ny = dataset.target # 569x1\n# Las clases en sklearn.datasets viene así: 0=maligno; 1=benigno\n# Intercambiamos las clases para que cáncer maligno=1 y el benigno=0 (estándar mas usado)\n# Las clases dependen de qué fuente provenga (UCI repo, Sklearn, Kaggle, etc.).\ny = 1 - y\n# Divide el conjunto de datos en entrenamiento y prueba\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, \n                                                    random_state=42, stratify=y) # Pass the target variable (y)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "X = dataset.data # 569x30\ny = dataset.target # 569x1\n# Las clases en sklearn.datasets viene así: 0=maligno; 1=benigno\n# Intercambiamos las clases para que cáncer maligno=1 y el benigno=0 (estándar mas usado)\n# Las clases dependen de qué fuente provenga (UCI repo, Sklearn, Kaggle, etc.).\ny = 1 - y\n# Divide el conjunto de datos en entrenamiento y prueba\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, \n                                                    random_state=42, stratify=y) # Pass the target variable (y)\n# Normaliza los datos para que todas las características tengan una escala similar",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "y = dataset.target # 569x1\n# Las clases en sklearn.datasets viene así: 0=maligno; 1=benigno\n# Intercambiamos las clases para que cáncer maligno=1 y el benigno=0 (estándar mas usado)\n# Las clases dependen de qué fuente provenga (UCI repo, Sklearn, Kaggle, etc.).\ny = 1 - y\n# Divide el conjunto de datos en entrenamiento y prueba\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, \n                                                    random_state=42, stratify=y) # Pass the target variable (y)\n# Normaliza los datos para que todas las características tengan una escala similar\nscaler = MinMaxScaler(feature_range=(0,1)) # [0, 1]",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "y = 1 - y\n# Divide el conjunto de datos en entrenamiento y prueba\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, \n                                                    random_state=42, stratify=y) # Pass the target variable (y)\n# Normaliza los datos para que todas las características tengan una escala similar\nscaler = MinMaxScaler(feature_range=(0,1)) # [0, 1]\nX_train = scaler.fit_transform(X_train)\nX_test = scaler.transform(X_test)\n# Crea y entrena el modelo K-NN\nmodel = KNeighborsClassifier(n_neighbors=3, p=2,  # Función euclidean",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "scaler = MinMaxScaler(feature_range=(0,1)) # [0, 1]\nX_train = scaler.fit_transform(X_train)\nX_test = scaler.transform(X_test)\n# Crea y entrena el modelo K-NN\nmodel = KNeighborsClassifier(n_neighbors=3, p=2,  # Función euclidean\n                             weights='uniform')\nmodel.fit(X_train, y_train)\n# Realiza predicciones usando el conjunto de prueba\ny_pred = model.predict(X_test)\n# Convierte las probabilidades en etiquetas binarias (0 o 1)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "X_train = scaler.fit_transform(X_train)\nX_test = scaler.transform(X_test)\n# Crea y entrena el modelo K-NN\nmodel = KNeighborsClassifier(n_neighbors=3, p=2,  # Función euclidean\n                             weights='uniform')\nmodel.fit(X_train, y_train)\n# Realiza predicciones usando el conjunto de prueba\ny_pred = model.predict(X_test)\n# Convierte las probabilidades en etiquetas binarias (0 o 1)\n# y_pred = (y_pred > 0.5)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "X_test = scaler.transform(X_test)\n# Crea y entrena el modelo K-NN\nmodel = KNeighborsClassifier(n_neighbors=3, p=2,  # Función euclidean\n                             weights='uniform')\nmodel.fit(X_train, y_train)\n# Realiza predicciones usando el conjunto de prueba\ny_pred = model.predict(X_test)\n# Convierte las probabilidades en etiquetas binarias (0 o 1)\n# y_pred = (y_pred > 0.5)\n# Muestra el informe de evaluación del modelo entrenado",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "model = KNeighborsClassifier(n_neighbors=3, p=2,  # Función euclidean\n                             weights='uniform')\nmodel.fit(X_train, y_train)\n# Realiza predicciones usando el conjunto de prueba\ny_pred = model.predict(X_test)\n# Convierte las probabilidades en etiquetas binarias (0 o 1)\n# y_pred = (y_pred > 0.5)\n# Muestra el informe de evaluación del modelo entrenado\nprint(classification_report(y_test, y_pred))\n# Matriz de confusión:",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "y_pred = model.predict(X_test)\n# Convierte las probabilidades en etiquetas binarias (0 o 1)\n# y_pred = (y_pred > 0.5)\n# Muestra el informe de evaluación del modelo entrenado\nprint(classification_report(y_test, y_pred))\n# Matriz de confusión:\nfrom sklearn.metrics import confusion_matrix\nimport seaborn as sns\nimport matplotlib.pyplot as plt\ncm = confusion_matrix(y_test, y_pred)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "cm",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "cm = confusion_matrix(y_test, y_pred)\nprint(\"confusion matrix: \\n\", cm)\n# gráfica cm\nplt.figure(figsize = (8,4))\nsns.heatmap(cm, annot=True, fmt='d')\nplt.xlabel('Prediction', fontsize = 12)\nplt.ylabel('Real', fontsize = 12)\nplt.show()\n# Exactitud:\nfrom sklearn.metrics import accuracy_score",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "plt.figure(figsize",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "plt.figure(figsize = (8,4))\nsns.heatmap(cm, annot=True, fmt='d')\nplt.xlabel('Prediction', fontsize = 12)\nplt.ylabel('Real', fontsize = 12)\nplt.show()\n# Exactitud:\nfrom sklearn.metrics import accuracy_score\nacc = accuracy_score(y_test, y_pred)\nprint(\"accuracy: \", acc)\n# Sensibilidad:",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "acc",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "acc = accuracy_score(y_test, y_pred)\nprint(\"accuracy: \", acc)\n# Sensibilidad:\nfrom sklearn.metrics import recall_score\nrecall = recall_score(y_test, y_pred)\nprint(\"recall: \", recall)\n# Precisión:\nfrom sklearn.metrics import precision_score\nprecision = precision_score(y_test, y_pred)\nprint(\"precision: \", precision)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "recall",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "recall = recall_score(y_test, y_pred)\nprint(\"recall: \", recall)\n# Precisión:\nfrom sklearn.metrics import precision_score\nprecision = precision_score(y_test, y_pred)\nprint(\"precision: \", precision)\n# Especificidad\n# 'specificity' is just a special case of 'recall'. \n# specificity is the recall of the negative class\nspecificity = recall_score(y_test, y_pred, pos_label=0)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "precision",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "precision = precision_score(y_test, y_pred)\nprint(\"precision: \", precision)\n# Especificidad\n# 'specificity' is just a special case of 'recall'. \n# specificity is the recall of the negative class\nspecificity = recall_score(y_test, y_pred, pos_label=0)\nprint(\"specificity: \", specificity)\n# Puntuación F1:\nfrom sklearn.metrics import f1_score\nf1 = f1_score(y_test, y_pred)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "specificity",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "specificity = recall_score(y_test, y_pred, pos_label=0)\nprint(\"specificity: \", specificity)\n# Puntuación F1:\nfrom sklearn.metrics import f1_score\nf1 = f1_score(y_test, y_pred)\nprint(\"f1 score: \", f1)\n# Área bajo la curva:\nfrom sklearn.metrics import roc_auc_score\nauc = roc_auc_score(y_test, y_pred)\nprint(\"auc: \", auc)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "f1",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "f1 = f1_score(y_test, y_pred)\nprint(\"f1 score: \", f1)\n# Área bajo la curva:\nfrom sklearn.metrics import roc_auc_score\nauc = roc_auc_score(y_test, y_pred)\nprint(\"auc: \", auc)\n# Curva ROC\nfrom sklearn.metrics import roc_curve\nplt.figure()\nlw = 2",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "auc",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "auc = roc_auc_score(y_test, y_pred)\nprint(\"auc: \", auc)\n# Curva ROC\nfrom sklearn.metrics import roc_curve\nplt.figure()\nlw = 2\nplt.plot(roc_curve(y_test, y_pred)[0], roc_curve(y_test, y_pred)[1], color='darkorange',lw=lw, label='ROC curve (area = %0.2f)' %auc)\nplt.plot([0, 1], [0, 1], color='navy', lw=lw, linestyle='--')\nplt.xlim([0.0, 1.0])\nplt.ylim([0.0, 1.05])",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "lw",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "lw = 2\nplt.plot(roc_curve(y_test, y_pred)[0], roc_curve(y_test, y_pred)[1], color='darkorange',lw=lw, label='ROC curve (area = %0.2f)' %auc)\nplt.plot([0, 1], [0, 1], color='navy', lw=lw, linestyle='--')\nplt.xlim([0.0, 1.0])\nplt.ylim([0.0, 1.05])\nplt.xlabel('False Positive Rate')\nplt.ylabel('True Positive Rate')\nplt.title('Receiver Operating Characteristic')\nplt.legend(loc=\"lower right\")\nplt.show()",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "R",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "R = r2_score(y_test, y_pred)\nprint(\"R2: \", R)\n# Guardar el modelo a un archivo\nimport joblib\njoblib.dump(model, 'knn_model.pkl')\n# Cargar el modelo desde el archivo\nloaded_model = joblib.load('knn_model.pkl')\n# Hacer predicciones con el modelo cargado\ny_pred = model.predict(X_test)\n# # SHAP (SHapley Additive exPlanations) para explicar las predicciones de un modelo de machine learning.",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "loaded_model",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "loaded_model = joblib.load('knn_model.pkl')\n# Hacer predicciones con el modelo cargado\ny_pred = model.predict(X_test)\n# # SHAP (SHapley Additive exPlanations) para explicar las predicciones de un modelo de machine learning.\n# import shap # pip install shap\n# # La combinación de K-NN y KernelExplainer es inherentemente lenta debido a la naturaleza computacional de ambos.\n# # Por lo que se puede usar una muestra más pequeña de los datos para obtener una idea aproximada de las explicaciones.\n# sample_size = 50  # ajustar según sea necesario\n# X_train_sample = shap.sample(X_train, sample_size)\n# X_test_sample = shap.sample(X_test, sample_size)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "Semana2.K-NN_2",
+        "description": "Semana2.K-NN_2",
+        "peekOfCode": "y_pred = model.predict(X_test)\n# # SHAP (SHapley Additive exPlanations) para explicar las predicciones de un modelo de machine learning.\n# import shap # pip install shap\n# # La combinación de K-NN y KernelExplainer es inherentemente lenta debido a la naturaleza computacional de ambos.\n# # Por lo que se puede usar una muestra más pequeña de los datos para obtener una idea aproximada de las explicaciones.\n# sample_size = 50  # ajustar según sea necesario\n# X_train_sample = shap.sample(X_train, sample_size)\n# X_test_sample = shap.sample(X_test, sample_size)\n# # Crear un explainer de SHAP usando en conjunto de entrenamiento\n# explainer = shap.KernelExplainer(model.predict_proba, X_train_sample)",
+        "detail": "Semana2.K-NN_2",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "dataset = load_breast_cancer()\nX = pd.DataFrame(dataset.data, columns=dataset.feature_names) # 569x30 (DataFrame)\n# X = dataset.data # 569x30 (NumPy object array)\ny = dataset.target # 569x1\n# Las clases en sklearn.datasets viene así: 0=maligno; 1=benigno\n# Intercambiamos las clases para que maligno=1 y el benigno=0 (estándar mas usado, 1 es la condición crítica)\n# Las clases dependen de qué fuente provenga (UCI repo, Sklearn, Kaggle, etc.).\ny = 1 - y\n# Divide el conjunto de datos en entrenamiento y prueba\n# The stratify parameter function ensures that the resulting training and testing",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "X = pd.DataFrame(dataset.data, columns=dataset.feature_names) # 569x30 (DataFrame)\n# X = dataset.data # 569x30 (NumPy object array)\ny = dataset.target # 569x1\n# Las clases en sklearn.datasets viene así: 0=maligno; 1=benigno\n# Intercambiamos las clases para que maligno=1 y el benigno=0 (estándar mas usado, 1 es la condición crítica)\n# Las clases dependen de qué fuente provenga (UCI repo, Sklearn, Kaggle, etc.).\ny = 1 - y\n# Divide el conjunto de datos en entrenamiento y prueba\n# The stratify parameter function ensures that the resulting training and testing\n# sets maintain the same proportion of classes as the original dataset.",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "y = dataset.target # 569x1\n# Las clases en sklearn.datasets viene así: 0=maligno; 1=benigno\n# Intercambiamos las clases para que maligno=1 y el benigno=0 (estándar mas usado, 1 es la condición crítica)\n# Las clases dependen de qué fuente provenga (UCI repo, Sklearn, Kaggle, etc.).\ny = 1 - y\n# Divide el conjunto de datos en entrenamiento y prueba\n# The stratify parameter function ensures that the resulting training and testing\n# sets maintain the same proportion of classes as the original dataset.\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, \n                                                    random_state=42, stratify=y) # Pass the target variable (y)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "y = 1 - y\n# Divide el conjunto de datos en entrenamiento y prueba\n# The stratify parameter function ensures that the resulting training and testing\n# sets maintain the same proportion of classes as the original dataset.\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, \n                                                    random_state=42, stratify=y) # Pass the target variable (y)\n# Normaliza los datos para que todas las características tengan una escala similar\nscaler = StandardScaler()\nX_train = scaler.fit_transform(X_train) # calcula los parámetros: media y desv. estandar\nX_test = scaler.transform(X_test) # usa los parámetros (media y desv. estandar) ya calculados en el training set.",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "scaler = StandardScaler()\nX_train = scaler.fit_transform(X_train) # calcula los parámetros: media y desv. estandar\nX_test = scaler.transform(X_test) # usa los parámetros (media y desv. estandar) ya calculados en el training set.\n# Crea y entrena el modelo de regresión logistica\n# multi_class controla cómo se manejan los problemas de clasificación con más de dos clases.\nmodel = LogisticRegression(multi_class='auto', solver='lbfgs', max_iter=100)\nmodel.fit(X_train, y_train) # 80%\n# Imprime los coeficientes y el intercepto del modelo entrenado\nprint(\"\\nCoeficientes del modelo:\")\nprint(model.coef_)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "X_train = scaler.fit_transform(X_train) # calcula los parámetros: media y desv. estandar\nX_test = scaler.transform(X_test) # usa los parámetros (media y desv. estandar) ya calculados en el training set.\n# Crea y entrena el modelo de regresión logistica\n# multi_class controla cómo se manejan los problemas de clasificación con más de dos clases.\nmodel = LogisticRegression(multi_class='auto', solver='lbfgs', max_iter=100)\nmodel.fit(X_train, y_train) # 80%\n# Imprime los coeficientes y el intercepto del modelo entrenado\nprint(\"\\nCoeficientes del modelo:\")\nprint(model.coef_)\nprint(\"\\nIntercepto del modelo:\")",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "X_test",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "X_test = scaler.transform(X_test) # usa los parámetros (media y desv. estandar) ya calculados en el training set.\n# Crea y entrena el modelo de regresión logistica\n# multi_class controla cómo se manejan los problemas de clasificación con más de dos clases.\nmodel = LogisticRegression(multi_class='auto', solver='lbfgs', max_iter=100)\nmodel.fit(X_train, y_train) # 80%\n# Imprime los coeficientes y el intercepto del modelo entrenado\nprint(\"\\nCoeficientes del modelo:\")\nprint(model.coef_)\nprint(\"\\nIntercepto del modelo:\")\nprint(model.intercept_)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "model = LogisticRegression(multi_class='auto', solver='lbfgs', max_iter=100)\nmodel.fit(X_train, y_train) # 80%\n# Imprime los coeficientes y el intercepto del modelo entrenado\nprint(\"\\nCoeficientes del modelo:\")\nprint(model.coef_)\nprint(\"\\nIntercepto del modelo:\")\nprint(model.intercept_)\n# Realiza predicciones usando el conjunto de prueba\ny_pred = model.predict(X_test) #20%\n# Convierte las probabilidades en etiquetas binarias (0 o 1)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "y_pred = model.predict(X_test) #20%\n# Convierte las probabilidades en etiquetas binarias (0 o 1)\ny_pred = (y_pred > 0.5)\n# Muestra el informe de evaluación del modelo entrenado\nprint(classification_report(y_test, y_pred))\n# Matriz de confusión:\nfrom sklearn.metrics import confusion_matrix\nimport seaborn as sns\nimport matplotlib.pyplot as plt\ncm = confusion_matrix(y_test, y_pred)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "y_pred = (y_pred > 0.5)\n# Muestra el informe de evaluación del modelo entrenado\nprint(classification_report(y_test, y_pred))\n# Matriz de confusión:\nfrom sklearn.metrics import confusion_matrix\nimport seaborn as sns\nimport matplotlib.pyplot as plt\ncm = confusion_matrix(y_test, y_pred)\nprint(\"confusion matrix: \\n\", cm)\n# gráfica cm",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "cm",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "cm = confusion_matrix(y_test, y_pred)\nprint(\"confusion matrix: \\n\", cm)\n# gráfica cm\nplt.figure(figsize = (8,4))\nsns.heatmap(cm, annot=True, fmt='d')\nplt.xlabel('Prediction', fontsize = 12)\nplt.ylabel('Real', fontsize = 12)\nplt.show()\n# Exactitud:\nfrom sklearn.metrics import accuracy_score",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "plt.figure(figsize",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "plt.figure(figsize = (8,4))\nsns.heatmap(cm, annot=True, fmt='d')\nplt.xlabel('Prediction', fontsize = 12)\nplt.ylabel('Real', fontsize = 12)\nplt.show()\n# Exactitud:\nfrom sklearn.metrics import accuracy_score\nacc = accuracy_score(y_test, y_pred)\nprint(\"accuracy: \", acc)\n# Sensibilidad (recall):",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "acc",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "acc = accuracy_score(y_test, y_pred)\nprint(\"accuracy: \", acc)\n# Sensibilidad (recall):\nfrom sklearn.metrics import recall_score\nrecall = recall_score(y_test, y_pred)\nprint(\"recall: \", recall)\n# Precisión:\nfrom sklearn.metrics import precision_score\nprecision = precision_score(y_test, y_pred)\nprint(\"precision: \", precision)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "recall",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "recall = recall_score(y_test, y_pred)\nprint(\"recall: \", recall)\n# Precisión:\nfrom sklearn.metrics import precision_score\nprecision = precision_score(y_test, y_pred)\nprint(\"precision: \", precision)\n# Especificidad\n# 'specificity' is just a special case of 'recall'. \n# specificity is the recall of the negative class\nspecificity = recall_score(y_test, y_pred, pos_label=0)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "precision",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "precision = precision_score(y_test, y_pred)\nprint(\"precision: \", precision)\n# Especificidad\n# 'specificity' is just a special case of 'recall'. \n# specificity is the recall of the negative class\nspecificity = recall_score(y_test, y_pred, pos_label=0)\nprint(\"specificity: \", specificity)\n# Puntuación F1:\nfrom sklearn.metrics import f1_score\nf1 = f1_score(y_test, y_pred)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "specificity",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "specificity = recall_score(y_test, y_pred, pos_label=0)\nprint(\"specificity: \", specificity)\n# Puntuación F1:\nfrom sklearn.metrics import f1_score\nf1 = f1_score(y_test, y_pred)\nprint(\"f1 score: \", f1)\n# Área bajo la curva:\nfrom sklearn.metrics import roc_auc_score\nauc = roc_auc_score(y_test, y_pred)\nprint(\"auc: \", auc)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "f1",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "f1 = f1_score(y_test, y_pred)\nprint(\"f1 score: \", f1)\n# Área bajo la curva:\nfrom sklearn.metrics import roc_auc_score\nauc = roc_auc_score(y_test, y_pred)\nprint(\"auc: \", auc)\n# Curva ROC\nfrom sklearn.metrics import roc_curve\nplt.figure()\nlw = 2",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "auc",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "auc = roc_auc_score(y_test, y_pred)\nprint(\"auc: \", auc)\n# Curva ROC\nfrom sklearn.metrics import roc_curve\nplt.figure()\nlw = 2\nplt.plot(roc_curve(y_test, y_pred)[0], roc_curve(y_test, y_pred)[1], color='darkorange',lw=lw, label='ROC curve (area = %0.2f)' %auc)\nplt.plot([0, 1], [0, 1], color='navy', lw=lw, linestyle='--')\nplt.xlim([0.0, 1.0])\nplt.ylim([0.0, 1.05])",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "lw",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "lw = 2\nplt.plot(roc_curve(y_test, y_pred)[0], roc_curve(y_test, y_pred)[1], color='darkorange',lw=lw, label='ROC curve (area = %0.2f)' %auc)\nplt.plot([0, 1], [0, 1], color='navy', lw=lw, linestyle='--')\nplt.xlim([0.0, 1.0])\nplt.ylim([0.0, 1.05])\nplt.xlabel('False Positive Rate')\nplt.ylabel('True Positive Rate')\nplt.title('Receiver Operating Characteristic')\nplt.legend(loc=\"lower right\")\nplt.show()",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "R",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "R = r2_score(y_test, y_pred)\nprint(\"R2: \", R)\n# Visualizar la importancia de las características\nfeature_names = dataset.feature_names\ncoefficients = model.coef_\n# Configurar el gráfico de barras\nfig, ax = plt.subplots(figsize=(10, 8))\n# Crear un gráfico de barras horizontal\nax.barh(feature_names, coefficients[0])\nax.set_title('Importancia de las Características en la Regresión Logística')",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "feature_names",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "feature_names = dataset.feature_names\ncoefficients = model.coef_\n# Configurar el gráfico de barras\nfig, ax = plt.subplots(figsize=(10, 8))\n# Crear un gráfico de barras horizontal\nax.barh(feature_names, coefficients[0])\nax.set_title('Importancia de las Características en la Regresión Logística')\nax.set_xlabel('Coeficientes')\nax.set_xlim(-max(abs(coefficients[0]))-1, max(abs(coefficients[0]))+1)\nplt.tight_layout()",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "coefficients",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "coefficients = model.coef_\n# Configurar el gráfico de barras\nfig, ax = plt.subplots(figsize=(10, 8))\n# Crear un gráfico de barras horizontal\nax.barh(feature_names, coefficients[0])\nax.set_title('Importancia de las Características en la Regresión Logística')\nax.set_xlabel('Coeficientes')\nax.set_xlim(-max(abs(coefficients[0]))-1, max(abs(coefficients[0]))+1)\nplt.tight_layout()\nplt.show()",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "loaded_model",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "loaded_model = joblib.load('logistic_regression_model.pkl')\n# Hacer predicciones con el modelo cargado\ny_pred = model.predict(X_test)\n# # SHAP (SHapley Additive exPlanations) para explicar las predicciones de un modelo de machine learning.\n# import shap # pip install shap\n# # Crear un explainer de SHAP usando en conjunto de entrenamiento\n# explainer = shap.Explainer(model, X_train)\n# # Obtener las explicaciones SHAP para el conjunto de prueba\n# shap_values = explainer.shap_values(X_test)\n# # Proporciona una visión general de la importancia de las características y su impacto en las predicciones.",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    },
+    {
+        "label": "y_pred",
+        "kind": 5,
+        "importPath": "Semana2.logistic_regression_2",
+        "description": "Semana2.logistic_regression_2",
+        "peekOfCode": "y_pred = model.predict(X_test)\n# # SHAP (SHapley Additive exPlanations) para explicar las predicciones de un modelo de machine learning.\n# import shap # pip install shap\n# # Crear un explainer de SHAP usando en conjunto de entrenamiento\n# explainer = shap.Explainer(model, X_train)\n# # Obtener las explicaciones SHAP para el conjunto de prueba\n# shap_values = explainer.shap_values(X_test)\n# # Proporciona una visión general de la importancia de las características y su impacto en las predicciones.\n# shap.summary_plot(shap_values, X_test, feature_names=dataset.feature_names)",
+        "detail": "Semana2.logistic_regression_2",
+        "documentation": {}
+    }
+]
